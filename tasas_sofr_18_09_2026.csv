@@ -1,0 +1,5 @@
+Indicador,Plazo,Tasa_Porcentaje,Fecha_Valor,Fuente
+CME Term SOFR,360,4.46092,18/9/2026,global-rates.com (CME Group)
+CME Term SOFR,180,4.1879,18/9/2026,global-rates.com (CME Group)
+CME Term SOFR,90,4.02325,18/9/2026,global-rates.com (CME Group)
+SOFR Overnight,30,3.85,17/9/2026,global-rates.com (Federal Reserve)
